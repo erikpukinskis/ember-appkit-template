@@ -17,7 +17,7 @@ gem 'uglifier', '>= 1.3.0'
 # gem 'therubyracer',  platforms: :ruby
 
 # Use jquery as the JavaScript library
-gem 'jquery-rails'
+gem 'jquery-rails', '~> 2.0.0'
 
 # Spring speeds up development by keeping your application running in the background. Read more: https://github.com/jonleighton/spring
 #gem 'spring',        group: :development
