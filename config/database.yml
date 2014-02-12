@@ -1,0 +1,15 @@
+development:
+    adapter: postgresql
+    database: sproutrobot_development
+    host: localhost
+    username: erik
+    pool: 5
+    timeout: 5000
+
+test:
+    adapter: postgresql
+    database: sproutrobot_test
+    host: localhost
+    username: erik
+    pool: 5
+    timeout: 5000
